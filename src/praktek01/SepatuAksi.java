@@ -11,6 +11,8 @@ package praktek01;
  */
 public class SepatuAksi {
     public static void main(String[] args) {
-        
+        Sepatu Zuzun = new Sepatu();
+        Sepatu Shinta = new Sepatu();
+        Sepatu Sylvi = new Sepatu();
     }
 }
