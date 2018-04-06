@@ -32,5 +32,9 @@ public class SepatuAksi {
         Sylvi.ukuran="37";
         Sylvi.jenis="Wedges";
         Sylvi.bahan="Bledru";
+        
+        Zuzun.cetakInfo();
+        Shinta.cetakInfo();
+        Sylvi.cetakInfo();
     }
 }
