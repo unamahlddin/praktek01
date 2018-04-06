@@ -14,5 +14,23 @@ public class SepatuAksi {
         Sepatu Zuzun = new Sepatu();
         Sepatu Shinta = new Sepatu();
         Sepatu Sylvi = new Sepatu();
+        
+        Zuzun.merk="adidas";
+        Zuzun.warna="Kuning";
+        Zuzun.ukuran="36";
+        Zuzun.jenis="sporty";
+        Zuzun.bahan="Kulit Sintetis";
+        
+        Shinta.merk="Buccheri";
+        Shinta.warna="Ungu";
+        Shinta.ukuran="38";
+        Shinta.jenis="High Heels";
+        Shinta.bahan="Kulit Buaya";
+        
+        Sylvi.merk="Carvil";
+        Sylvi.warna="Pink";
+        Sylvi.ukuran="37";
+        Sylvi.jenis="Wedges";
+        Sylvi.bahan="Bledru";
     }
 }
